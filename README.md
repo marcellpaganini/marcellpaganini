@@ -2,12 +2,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-02569B?logo=css3&logoColor=white&style=plastic)  
 
 ## Languages:  
-![C#](https://img.shields.io/badge/-C_SHARP-02569B?logo=csharp&logoColor=white&style=plastic)
+![C#](https://img.shields.io/badge/-C_SHARP-purple?logo=csharp&logoColor=white&style=plastic)
 ![Typescript](https://img.shields.io/badge/-TYPESCRIPT-02569B?logo=typescript&logoColor=white&style=plastic)
-![Javascript](https://img.shields.io/badge/-JAVASCRIPT-02569B?logo=javascript&logoColor=white&style=plastic)  
+![Javascript](https://img.shields.io/badge/-JAVASCRIPT-yellow?logo=javascript&logoColor=white&style=plastic)  
 
 ## Database management  
-![Microsoft Sql Server](https://img.shields.io/badge/-MICROSOFT_SQL_SERVER-02569B?logo=blazor&logoColor=white&style=plastic)
+![Microsoft Sql Server](https://img.shields.io/badge/-MICROSOFT_SQL_SERVER-02569B?logo=microsoftsqlserver&logoColor=white&style=plastic)
 ![MariaDB](https://img.shields.io/badge/-MARIADB-02569B?logo=mariadb&logoColor=white&style=plastic)
 ![SQLite](https://img.shields.io/badge/-SQLITE-02569B?logo=sqlite&logoColor=white&style=plastic)
 
