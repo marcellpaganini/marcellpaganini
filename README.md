@@ -20,6 +20,9 @@
 ![Lit](https://img.shields.io/badge/-LIT-02569B?logo=lit&logoColor=white&style=plastic)
 ![Blazor](https://img.shields.io/badge/-BLAZOR-purple?logo=blazor&logoColor=white&style=plastic)
 
+## Unit Testing  
+![XUnit](https://img.shields.io/badge/-XUNIT-gray?logo=dotnet&logoColor=white&style=plastic)
+![JUnit](https://img.shields.io/badge/-JUNIT-red?logo=junit5&logoColor=white&style=plastic)
 
 <!--
 **marcellpaganini/marcellpaganini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
