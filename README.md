@@ -19,6 +19,7 @@
 ![Mobx-State-Tree](https://img.shields.io/badge/-MOBX_STATE_TREE-orange?logo=mobxstatetree&logoColor=white&style=plastic)
 ![Lit](https://img.shields.io/badge/-LIT-02569B?logo=lit&logoColor=white&style=plastic)
 ![Blazor](https://img.shields.io/badge/-BLAZOR-purple?logo=blazor&logoColor=white&style=plastic)
+![Angular](https://img.shields.io/badge/-ANGULAR-red?logo=angular&logoColor=white&style=plastic)
 
 ## Unit Testing  
 ![XUnit](https://img.shields.io/badge/-XUNIT-gray?logo=dotnet&logoColor=white&style=plastic)
