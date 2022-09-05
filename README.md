@@ -23,9 +23,14 @@
 ## Unit Testing  
 ![XUnit](https://img.shields.io/badge/-XUNIT-gray?logo=dotnet&logoColor=white&style=plastic)
 ![JUnit](https://img.shields.io/badge/-JUNIT-red?logo=junit5&logoColor=white&style=plastic)
-![Jasmine](https://img.shields.io/badge/-JASMINE-purple?logo=jasmine&logoColor=white&style=plastic)
+![Jasmine](https://img.shields.io/badge/-JASMINE-purple?logo=jasmine&logoColor=white&style=plastic)  
 
 <!--
+## Game Development  
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white&style=plastic)  
+![Unreal](https://img.shields.io/badge/-UNREAL-black?logo=unrealengine&logoColor=white&style=plastic)
+
+
 **marcellpaganini/marcellpaganini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
