@@ -5,15 +5,18 @@
 ### Languages 
 ![C#](https://img.shields.io/badge/-C%20SHARP-purple?logo=csharp&logoColor=white&style=plastic)
 ![Typescript](https://img.shields.io/badge/-TYPESCRIPT-02569B?logo=typescript&logoColor=white&style=plastic)
-![Javascript](https://img.shields.io/badge/-JAVASCRIPT-yellow?logo=javascript&logoColor=white&style=plastic)  
+![Javascript](https://img.shields.io/badge/-JAVASCRIPT-yellow?logo=javascript&logoColor=white&style=plastic)
+<!-- ![JAVA](https://img.shields.io/badge/-JAVA-orange?logo=coffeescript&logoColor=white&style=plastic) --> 
 
 ### Database management  
 ![Microsoft Sql Server](https://img.shields.io/badge/-MICROSOFT_SQL_SERVER-gray?logo=microsoftsqlserver&logoColor=white&style=plastic)
 ![MariaDB](https://img.shields.io/badge/-MARIADB-gray?logo=mariadb&logoColor=white&style=plastic)
 ![SQLite](https://img.shields.io/badge/-SQLITE-02569B?logo=sqlite&logoColor=white&style=plastic)
+<!-- ![MongoDB](https://img.shields.io/badge/-MONGODB-green?logo=mongodb&logoColor=white&style=plastic) -->  
 
 ### Back-End  
 ![DotNet Core](https://img.shields.io/badge/-CORE-purple?logo=dotnet&logoColor=white&style=plastic)
+<!-- ![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-green?logo=springboot&logoColor=white&style=plastic) -->  
 
 ### Front-End  
 ![ReactJS](https://img.shields.io/badge/-REACTJS-lightblue?logo=react&logoColor=white&style=plastic)
