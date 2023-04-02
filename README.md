@@ -40,12 +40,13 @@
 
 
 ## Game Development  
-### Languages:
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white&style=plastic)  
+### Languages: 
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white&style=plastic)
+![C#](https://img.shields.io/badge/-C%20SHARP-purple?logo=csharp&logoColor=white&style=plastic)
 
 ### Engines
 ![Unreal](https://img.shields.io/badge/-UNREAL-black?logo=unrealengine&logoColor=white&style=plastic)
-
+![Unity](https://img.shields.io/badge/-UNITY-white?logo=unity&logoColor=black&style=plastic)
 
 **marcellpaganini/marcellpaganini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
