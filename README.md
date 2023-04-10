@@ -24,7 +24,7 @@
 ![Blazor](https://img.shields.io/badge/-BLAZOR-purple?logo=blazor&logoColor=white&style=plastic)
 ![Angular](https://img.shields.io/badge/-ANGULAR-red?logo=angular&logoColor=white&style=plastic)
 
-### Unit Testing  
+### Unit/Integration Testing  
 ![XUnit](https://img.shields.io/badge/-XUNIT-gray?logo=dotnet&logoColor=white&style=plastic)
 ![JUnit](https://img.shields.io/badge/-JUNIT-red?logo=junit5&logoColor=white&style=plastic)
 ![Jasmine](https://img.shields.io/badge/-JASMINE-purple?logo=jasmine&logoColor=white&style=plastic)  
