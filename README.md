@@ -27,18 +27,17 @@
 ### Unit/Integration Testing  
 ![XUnit](https://img.shields.io/badge/-XUNIT-gray?logo=dotnet&logoColor=white&style=plastic)
 ![JUnit](https://img.shields.io/badge/-JUNIT-red?logo=junit5&logoColor=white&style=plastic)
-![Jasmine](https://img.shields.io/badge/-JASMINE-purple?logo=jasmine&logoColor=white&style=plastic)  
+<!--  ![Jasmine](https://img.shields.io/badge/-JASMINE-purple?logo=jasmine&logoColor=white&style=plastic)  -->
 
-<!--   
    
 ## Mobile App Development  
 ### Languages:
-![C#](https://img.shields.io/badge/-C%20SHARP-purple?logo=csharp&logoColor=white&style=plastic)  
+![Typescript](https://img.shields.io/badge/-TYPESCRIPT-02569B?logo=typescript&logoColor=white&style=plastic)  
 
 ### Frameworks:
-![MAUI](https://img.shields.io/badge/-MAUI-purple?logo=dotnet&logoColor=white&style=plastic)
+![ReactNative](https://img.shields.io/badge/-REACT%20NATIVE-lightblue?logo=react&logoColor=white&style=plastic)
 
-
+<!--  
 ## Game Development  
 ### Languages: 
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white&style=plastic)
